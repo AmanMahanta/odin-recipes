@@ -1,2 +1,2 @@
 PROJECT-
-        Making a webpage of my favourite 
+        Making a webpage of my favourite Foods!
